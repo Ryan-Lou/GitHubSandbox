@@ -1,1 +1,2 @@
 # Learnning_Logs
+这个项目是我对github的学习进行测试的一个项目，帮助我快速学习github工作流程
